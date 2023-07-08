@@ -1,5 +1,5 @@
 # Que quieres conocerme?
-- te comparto un fragmento de combersación con GPT4.
+- te comparto un fragmento de conversación con GPT4.
 - en esta conversación comparto mi pensamiento real.
 ## Disfrutenlo...
 
