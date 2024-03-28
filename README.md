@@ -1,2 +1,3 @@
-[MachadoIsmaelCV24ENG.pdf](https://github.com/samdeveloper23/samdeveloper23/files/14279961/MachadoIsmaelCV24ENG.pdf)
-![MachadoIsmaelCV24ENG](https://github.com/samdeveloper23/samdeveloper23/assets/132347661/13aee5b4-05bf-4239-8da3-69ee523502b0)
+
+[MachadoIsmaelCV24ENG_Sepia.pdf](https://github.com/samdeveloper23/samdeveloper23/files/14794812/MachadoIsmaelCV24ENG_Sepia.pdf)
+![MachadoIsmaelCV24ENG_Sepia](https://github.com/samdeveloper23/samdeveloper23/assets/132347661/cf603b40-eac0-4fa1-aedf-b211fb40f2ca)
